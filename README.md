@@ -1,6 +1,6 @@
 - # Sobre mim
-- 👋 Oi, eu sou a Mariana
-- 👀 Estou interessada em me aprofundar nas áreas de computação
-- 🌱 Estou aprendo robótica
-- 📫 Onde me encontrar: mariana.mauro@escola.pr.gov.br
+- :upside_down_face: Oi, eu sou a Mariana
+- :woman_student: Estou interessada em me aprofundar nas áreas de computação
+- :computer: Estou aprendo robótica
+- :mailbox_closed: Onde me encontrar: mariana.mauro@escola.pr.gov.br
 
